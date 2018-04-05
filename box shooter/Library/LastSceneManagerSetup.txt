@@ -1,0 +1,7 @@
+sceneSetups:
+- path: Assets/box1.unity
+  isLoaded: 1
+  isActive: 0
+- path: Assets/_Scenes/Level1.unity
+  isLoaded: 1
+  isActive: 1
